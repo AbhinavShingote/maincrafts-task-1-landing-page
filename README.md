@@ -1,9 +1,10 @@
-<<<<<<< HEAD
 # Maincrafts Technology Internship - Task 1
 
 ## Landing Page with Contact Form
 
 This project was developed as part of the **Maincrafts Technology Java Full Stack Web Development Internship**.
+
+---
 
 ## Features
 
@@ -16,6 +17,8 @@ This project was developed as part of the **Maincrafts Technology Java Full Stac
 - POST Request Handling
 - Console Output
 
+---
+
 ## Technologies Used
 
 - HTML5
@@ -23,6 +26,8 @@ This project was developed as part of the **Maincrafts Technology Java Full Stac
 - Java
 - Spring Boot
 - Maven
+
+---
 
 ## Project Structure
 
@@ -36,20 +41,19 @@ src
  │            └── style.css
 ```
 
+---
+
 ## How to Run
 
 1. Clone the repository.
 2. Open the project in IntelliJ IDEA.
 3. Run `LandingpageApplication.java`.
-4. Open:
-
-```
-http://localhost:8080
-```
-
-5. Fill the Contact Form.
+4. Open `http://localhost:8080`
+5. Fill the contact form.
 6. Click **Send Message**.
-7. View submitted data in the IntelliJ Console.
+7. View the submitted data in the IntelliJ Console.
+
+---
 
 ## Author
 
@@ -59,14 +63,12 @@ Computer Engineering Student
 
 MIT Academy of Engineering (MITAOE)
 
+---
+
 ## Internship
 
-Maincrafts Technology
+**Maincrafts Technology**
 
 Java Full Stack Web Development Internship
 
-Task 1
-=======
-# maincrafts-task-1-landing-page
-Java Full Stack Internship Task 1 - Landing Page with Contact Form using Spring Boot
->>>>>>> 66a199e84c89cbed2ad1ba4fd16c0cb6ac87ede2
+**Task 1**
